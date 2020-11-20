@@ -1,1 +1,1 @@
-# Two-wheeled-Balancing-Robot
+# Two-wheeled Balancing Robot
